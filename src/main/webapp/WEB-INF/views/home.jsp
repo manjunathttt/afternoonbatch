@@ -8,5 +8,10 @@
 </head>
 <body>
 <h1> Welcome to HomePage....</h1>
+
+<div style="color:red">
+<a href="login">LOGIN HERE</a>
+<a href="register">REGISTER</a>
+</div>
 </body>
 </html>
